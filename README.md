@@ -57,7 +57,7 @@
 
 ## Feedback
 
-Fique à vontade para testar o dashboard e enviar seu feedback, seja ele positivo ou construtivo. Estou aberto para ajudar e aprimorar o projeto.
-
+Fique à vontade para testar o dashboard e enviar seu feedback, seja ele positivo ou construtivo. Estou aberto para ajudar e aprimorar o projeto.<br>
+https://app.powerbi.com/view?r=eyJrIjoiNDEyNjllYjMtMDI4Ni00OGFkLWE2NTgtZTAzZTJmMzE4YzkzIiwidCI6ImY1MDM4NzBkLTBhYWUtNDI1Mi05ZjE1LWQ2MTg5NmY5ZjZmZiJ9<br>
 Obrigado!
 
